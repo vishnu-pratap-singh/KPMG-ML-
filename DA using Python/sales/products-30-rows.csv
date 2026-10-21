@@ -1,0 +1,31 @@
+Product_ID,Product_Name,Category,Unit_Price,Unit_Cost
+P001,Product_001,Sports,4313.95,1405.47
+P002,Product_002,Electronics,37890.85,3216.85
+P003,Product_003,Electronics,17594.22,14955.09
+P004,Product_004,Beauty,51871.71,5378.01
+P005,Product_005,Beauty,20276.97,17235.42
+P006,Product_006,Clothing,29671.03,25220.38
+P007,Product_007,Sports,903.59,768.05
+P008,Product_008,Home & Kitchen,4848.18,4120.95
+P009,Product_009,Office Supplies,25603.21,6765.9
+P010,Product_010,Clothing,31274.03,4254.35
+P011,Product_011,Beauty,39061.33,25486.3
+P012,Product_012,Office Supplies,19064.32,16204.67
+P013,Product_013,Beauty,45219.58,1340.92
+P014,Product_014,Office Supplies,55928.94,37453.59
+P015,Product_015,Home & Kitchen,50723.34,2154.69
+P016,Product_016,Clothing,2719.28,2311.39
+P017,Product_017,Office Supplies,31310.88,26614.25
+P018,Product_018,Sports,6954.72,5911.51
+P019,Product_019,Electronics,15846.62,13469.63
+P020,Product_020,Sports,64135.07,32084.99
+P021,Product_021,Sports,9390.84,7982.21
+P022,Product_022,Electronics,32502.9,27627.46
+P023,Product_023,Sports,40237.4,3278.18
+P024,Product_024,Office Supplies,45704.85,35801.08
+P025,Product_025,Office Supplies,36443.22,21939.89
+P026,Product_026,Office Supplies,783.64,666.09
+P027,Product_027,Electronics,21321.02,18122.87
+P028,Product_028,Sports,33723.6,25771.62
+P029,Product_029,Electronics,5848.14,4970.92
+P030,Product_030,Office Supplies,22888.16,19454.94
